@@ -3,6 +3,6 @@ install:
 	echo "Installing scripts..."
 	cp ./myip.py /usr/bin/myip
 	chmod +x /usr/bin/myip
-	cp ./securebash.py /usr/bin/sbash
+	cp ./anonbash.py /usr/bin/xbash
 	chmod +x /usr/bin/xbash
 	echo "Installation Complete"
