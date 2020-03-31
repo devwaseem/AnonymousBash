@@ -4,5 +4,5 @@ install:
 	cp ./myip.py /usr/bin/myip
 	chmod +x /usr/bin/myip
 	cp ./securebash.py /usr/bin/sbash
-	chmod +x /usr/bin/sbash
+	chmod +x /usr/bin/xbash
 	echo "Installation Complete"
