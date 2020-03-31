@@ -8,6 +8,8 @@ This script automates the process of tor and proxychains and tunnels it to Bash 
 
 If you don't know what proxychains and Tor is, You may not know how to config those. Please Google it
 
+![xbash](https://raw.githubusercontent.com/devwaseem/AnonymousBash/master/xbash.png)
+![myip](https://raw.githubusercontent.com/devwaseem/AnonymousBash/master/myip.jpg)
 
 | :warning:     | I AM NOT RESPONSIBLE FOR HOW YOU USE THIS SCRIPT. USE LEGALLY. DONT BE AN IMBECILE.  |
 |---------------|:-------------------------------------------------------------------------------------|
@@ -43,12 +45,16 @@ $ xbash
 ```
 You'll be prompted for password, if you are non-root user. if your user account can't execute with root permissions, check sudoers file
 
+![xbash](https://raw.githubusercontent.com/devwaseem/AnonymousBash/master/xbash.png)
+
 
 Once you are inside the shell, run
 ```
 $ myip
 ```
 myip command will fetch your gelocation using your ip
+
+![myip](https://raw.githubusercontent.com/devwaseem/AnonymousBash/master/myip.jpg)
 
 :pray: Thanks to [@thehowl](https://github.com/thehowl) for [ipinfo clone](https://github.com/thehowl/ip.zxq.co)
 
