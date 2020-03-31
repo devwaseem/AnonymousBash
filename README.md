@@ -1,14 +1,17 @@
 # AnonymousBash
 
 #### Anonymous Bash Environment powered with TOR and Proxychains
-
-| :warning:     | I AM NOT RESPONSIBLE FOR HOW YOU USE THIS SCRIPT. USE LEGALLY. DONT BE AN IMBECILE.  |
-|---------------|:-------------------------------------------------------------------------------------|
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 This script automates the process of tor and proxychains and tunnels it to Bash Environment so you can run any aggressive commands anonymously
 
 If you don't know what proxychains and Tor is, You may not know how to config those. Please Google it
+
+
+| :warning:     | I AM NOT RESPONSIBLE FOR HOW YOU USE THIS SCRIPT. USE LEGALLY. DONT BE AN IMBECILE.  |
+|---------------|:-------------------------------------------------------------------------------------|
+
 
 ## :computer: Supported OS
 ```
@@ -32,7 +35,7 @@ $ sudo make install
 ```
 You'll be prompted for password, if you are non-root user. if your user account can't execute with root permissions, check sudoers file
 
-## How to run
+## :gear: How to run
 
 just type 
 ```
@@ -49,6 +52,10 @@ myip script will fetch your gelocation using your ip
 
 :pray: Thanks to [@thehowl](https://github.com/thehowl) for [ipinfo clone](https://github.com/thehowl/ip.zxq.co)
 
-## LICENSE
+## Contributions
+Contributions are always welcome, have an idea or bug fix? please fork and pull request
 
+
+## :balance_scale: LICENSE
+[MIT](https://github.com/devwaseem/AnonymousBash/blob/master/LICENSE)
 
