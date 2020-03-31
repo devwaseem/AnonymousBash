@@ -46,9 +46,9 @@ You'll be prompted for password, if you are non-root user. if your user account 
 
 Once you are inside the shell, run
 ```
-myip
+$ myip
 ```
-myip script will fetch your gelocation using your ip
+myip command will fetch your gelocation using your ip
 
 :pray: Thanks to [@thehowl](https://github.com/thehowl) for [ipinfo clone](https://github.com/thehowl/ip.zxq.co)
 
